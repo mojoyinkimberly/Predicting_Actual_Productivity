@@ -17,3 +17,8 @@ notebook==6.4.10
 notebook-shim==0.1.0
 numpy==1.22.3
 packaging==21.3
+jupyter-core==4.9.2
+jupyter-server==1.15.6
+jupyterlab==3.3.2
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.12.0
